@@ -1,1 +1,10 @@
 @import url(../vendor/normalize.css);
+@import url(../vendor/fonts/fonts.css);
+
+/* mix-in blocks */
+
+@import url(../blocks/centered-block/centered-block.css);
+
+/* page block */
+
+@import url(../blocks/page/page.css);
