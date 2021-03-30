@@ -8,7 +8,7 @@
   -ms-text-size-adjust: 100%;
   -moz-text-size-adjust: 100%;
   padding: 64px 0;
-  width: calc(100% - 32px);
+  max-width: calc(100% - 32px);
   display: flex;
   flex-direction: column;
   align-items: flex-start;
