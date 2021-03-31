@@ -4,6 +4,7 @@
   font-weight: 900;
   margin: 0;
   padding: 0 0 40px;
+  max-width: 218px;
 }
 
 @media (min-width: 425px) {
