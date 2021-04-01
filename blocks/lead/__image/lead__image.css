@@ -1,21 +1,5 @@
 .lead__image {
-  max-width: 100%;
+  width: 100%;
   margin: 0;
   padding: 0 0 8px;
-}
-
-@media (min-width: 425px) {
-
-}
-
-@media (min-width: 768px) {
-
-}
-
-@media (min-width: 1024px) {
-
-}
-
-@media (min-width: 1280px) {
-
 }
