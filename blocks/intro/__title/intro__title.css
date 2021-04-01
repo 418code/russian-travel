@@ -8,17 +8,17 @@
 }
 
 @media (min-width: 425px) {
-
+  .intro__title {
+    max-width: 300px;
+    font-size: 40px;
+    line-height: 43px;
+  }
 }
 
 @media (min-width: 768px) {
-
-}
-
-@media (min-width: 1024px) {
-
-}
-
-@media (min-width: 1280px) {
-
+  .intro__title {
+    max-width: 100%;
+    font-size: 54px;
+    line-height: 58px;
+  }
 }

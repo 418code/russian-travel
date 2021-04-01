@@ -13,20 +13,25 @@
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-}
-
-@media (min-width: 425px) {
-
+  align-self: flex-start;
 }
 
 @media (min-width: 768px) {
-
+  .intro {
+    padding: 0 24px 88px;
+  }
 }
 
 @media (min-width: 1024px) {
-
+  .intro {
+    box-sizing: content-box;
+    max-width: 690px;
+    padding: 0 0 92px 48px;
+  }
 }
 
 @media (min-width: 1280px) {
-
+  .intro {
+    padding: 0 0 92px 148px;
+  }
 }
