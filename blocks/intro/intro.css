@@ -7,8 +7,9 @@
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   -moz-text-size-adjust: 100%;
-  padding: 64px 0;
-  max-width: calc(100% - 32px);
+  box-sizing: border-box;
+  padding: 0 16px 64px;
+  max-width: 100%;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
