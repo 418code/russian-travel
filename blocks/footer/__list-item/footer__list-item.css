@@ -5,3 +5,9 @@
 .footer__list-item:last-of-type {
   padding: 0;
 }
+
+@media (min-width: 768px) {
+  .footer__list-item {
+    padding: 0 18px 0 0;
+  }
+}
