@@ -1,7 +1,4 @@
 .cover {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
   align-items: center;
   font-family: 'Inter', Arial, sans-serif;
   color: #fff;
@@ -11,22 +8,30 @@
   -ms-text-size-adjust: 100%;
   -moz-text-size-adjust: 100%;
   box-sizing: border-box;
-  max-width: 100%;
+  width: 100%;
   padding: 0 0 64px;
 }
 
 @media (min-width: 425px) {
-
+  .cover {
+    padding: 0 0 70px;
+  }
 }
 
 @media (min-width: 768px) {
-
+  .cover {
+    padding: 0 0 88px;
+  }
 }
 
 @media (min-width: 1024px) {
-
+  .cover {
+    padding: 0 0 92px;
+  }
 }
 
 @media (min-width: 1280px) {
-
+  .cover {
+    padding: 0 48px 92px;
+  }
 }
