@@ -8,18 +8,20 @@
   padding-bottom: 64px;
 }
 
-@media (min-width: 425px) {
-
-}
-
-@media (min-width: 768px) {
-
+@media (min-width: 666px) {
+  .places {
+    padding: 0 24px 90px;
+  }
 }
 
 @media (min-width: 1024px) {
-
+  .places {
+    padding: 0 48px 92px;
+  }
 }
 
 @media (min-width: 1280px) {
-
+  .places {
+    padding: 0 148px 92px;
+  }
 }

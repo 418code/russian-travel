@@ -15,18 +15,23 @@
   padding: 0;
 }
 
-@media (min-width: 425px) {
-
-}
-
-@media (min-width: 768px) {
-
+@media (min-width: 666px) {
+  .place {
+    grid-template-columns: 1fr 1fr;
+    gap: 48px 28px;
+    padding-bottom: 73px;
+  }
 }
 
 @media (min-width: 1024px) {
-
+  .place {
+    gap: 48px 32px;
+    padding-bottom: 80px;
+  }
 }
 
 @media (min-width: 1280px) {
-
+  .place {
+    gap: 48px 40px;
+  }
 }
