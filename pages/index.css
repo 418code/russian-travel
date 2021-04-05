@@ -6,10 +6,6 @@
 @import url(../blocks/centered-block/centered-block.css);
 @import url(../blocks/transparent/transparent.css);
 
-/* background block */
-
-@import url(../blocks/background/background.css);
-
 /* page block */
 
 @import url(../blocks/page/page.css);
