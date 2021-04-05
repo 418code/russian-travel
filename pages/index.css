@@ -3,12 +3,12 @@
 
 /* mix-in blocks */
 
-@import url(../blocks/centered-block/centered-block.css);
 @import url(../blocks/transparent/transparent.css);
 
 /* page block */
 
 @import url(../blocks/page/page.css);
+@import url(../blocks/page/_narrow/page_narrow.css);
 
 /* header section */
 
