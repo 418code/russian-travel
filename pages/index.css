@@ -5,10 +5,14 @@
 
 @import url(../blocks/transparent/transparent.css);
 
+/* body block */
+
+@import url(../blocks/body/body.css);
+@import url(../blocks/body/__element/body__element.css);
+
 /* page block */
 
 @import url(../blocks/page/page.css);
-@import url(../blocks/page/_narrow/page_narrow.css);
 
 /* header section */
 
