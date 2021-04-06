@@ -1,7 +1,6 @@
 .header {
   box-sizing: border-box;
   width: 100%;
-  min-height: 42px;
   padding: 16px 16px 48px;
   color: #fff;
   -webkit-font-smoothing: antialiased;
