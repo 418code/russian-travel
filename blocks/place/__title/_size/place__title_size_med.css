@@ -1,0 +1,10 @@
+.place__title_size_med {
+}
+
+@media (min-width: 1024px) {
+  .place__title_size_med {
+    max-width: 400px;
+    font-size: 55px;
+    line-height: 58px;
+  }
+}
