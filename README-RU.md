@@ -1,6 +1,6 @@
 # Проект факультета веб разработки Яндекс Практикума: спринт 3
 
-[Демо @ github pages](https://bliss-code.github.io/russian-travel/)
+[Демо @ github pages](https://418code.github.io/russian-travel/)
 
 [English](./README.md)
 

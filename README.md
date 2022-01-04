@@ -1,7 +1,7 @@
 # Yandex Practicum web development project: sprint 3
 
 
-[Demo @ github pages](https://bliss-code.github.io/russian-travel/)
+[Demo @ github pages](https://418code.github.io/russian-travel/)
 
 [По-русски](./README-RU.md)
 
