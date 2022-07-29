@@ -1,15 +1,10 @@
-# Yandex Practicum web development project: sprint 3
+## A responsive multi-section page with information about travel across Russia
 
 
-[Demo @ github pages](https://418code.github.io/russian-travel/)
+[Live demo](https://418code.github.io/russian-travel/)
 
-[По-русски](./README-RU.md)
 
-## Description
-
-Responsive multi-section web page with information about travel across Russia
-
-## Technologies used
+## Technologies
 
 Figma
 - implement 320px, 768px, 1024px, 1280px designs
@@ -22,20 +17,15 @@ CSS
 - relative and absolute positioning of a shadow pseudo element with z-index
 - custom fonts imported
 - normalize.css
+- [Block Element Modifier](http://getbem.com/introduction/) naming system
+- [W3C validation](https://jigsaw.w3.org/css-validator/)
 
-Semantic HTML
-- header, footer, nav, section, article, etc.
+HTML
+- semantic
+- emmet abbreviations
+- [W3C validation](https://validator.w3.org/)
 
-BEM
-- CSS classes organized according to Block Element Modifier system
-- Files organized with BEM nested file structure
-- CSS files imported from BEM folders with @import
-
-git
+Git
 - commands: commit, log, status, diff, branch, merge
 - commits organization: feat, fix, refactor
 - GitHub pages
-
-Other
-- emmet abbreviations
-- imagemagick
